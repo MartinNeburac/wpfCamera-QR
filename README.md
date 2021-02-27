@@ -1,4 +1,4 @@
 # wpfCamera-QR
 
-**Camera Selection 
-**QR Scanner
+Camera Selection,
+QR Scanner
