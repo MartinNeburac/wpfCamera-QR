@@ -1,4 +1,5 @@
 # wpfCamera-QR
 
-Camera Selection,
+Camera
 QR Scanner
+My project for Moravian museum.
